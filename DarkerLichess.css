@@ -108,12 +108,8 @@ group.radio label,
 }
 
 /* Hover Menus */
-#topnav div {
-  box-shadow: -1px 1px 15px rgb(0 0 0)
-}
-
-.site-buttons .dropdown {
-  box-shadow: -1px 1px 15px rgb(0 0 0);
+#topnav.hover section:hover>a, #topnav section:active>a {
+    background: #0e0e0e;
 }
 
 .game-setup .optional_config,
