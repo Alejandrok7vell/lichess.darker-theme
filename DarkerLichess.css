@@ -151,7 +151,8 @@ select,
 .msg-app__side__search,
 .msg-app__side,
 .msg-app__convo__reply,
-rm6 .buttons {
+rm6 .buttons,
+rm6 i5z {
     background: #131313;
 }
 
