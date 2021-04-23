@@ -152,7 +152,8 @@ select,
 .msg-app__side,
 .msg-app__convo__reply,
 rm6 .buttons,
-rm6 i5z {
+rm6 i5z,
+.streamer-show .ratings {
     background: #131313;
 }
 
