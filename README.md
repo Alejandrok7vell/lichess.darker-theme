@@ -1,6 +1,6 @@
 # Darker Theme for lichess.org
 
-<img src="https://i.imgur.com/Agk7WVO.png" height=400px>
+<img src="https://i.imgur.com/Agk7WVO.png">
 
 ## How to install
 
