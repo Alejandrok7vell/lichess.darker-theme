@@ -26,7 +26,8 @@ group.radio label,
 .tour-spotlight.event-spotlight,
 .tour-spotlight,
 .study__player,
-.rcontrols .rematch.fbt {
+.rcontrols .rematch.fbt,
+.tour__controls {
   background: linear-gradient(to bottom, #131313, #0e0e0e 100%);
 }
 /* Lobby */
@@ -103,7 +104,9 @@ group.radio label,
 .number-menu--tabs .nm-item.active,
 .activity section h2 time,
 #miniGame,
-.round__app rm6 {
+.round__app rm6,
+.tour__meta,
+.tour__team-standing tbody tr:nth-child(odd) {
   background: #0e0e0e;
 }
 
