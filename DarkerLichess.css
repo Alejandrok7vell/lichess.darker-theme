@@ -27,7 +27,10 @@ group.radio label,
 .tour-spotlight,
 .study__player,
 .rcontrols .rematch.fbt,
-.tour__controls {
+.tour__controls,
+.swiss__controls,
+.swiss__player-info .stats h2,
+.tour__actor-info .stats h2 {
   background: linear-gradient(to bottom, #131313, #0e0e0e 100%);
 }
 /* Lobby */
@@ -106,7 +109,10 @@ group.radio label,
 #miniGame,
 .round__app rm6,
 .tour__meta,
-.tour__team-standing tbody tr:nth-child(odd) {
+.tour__team-standing tbody tr:nth-child(odd),
+.swiss__meta,
+.swiss__player-info,
+.tour__actor-info {
   background: #0e0e0e;
 }
 
@@ -152,7 +158,9 @@ select,
 .msg-app__convo__reply,
 rm6 .buttons,
 rm6 i5z,
-.streamer-show .ratings {
+.streamer-show .ratings,
+.swiss__player-info .pairings tr:nth-child(odd),
+.tour__player-info .pairings tr:nth-child(odd) {
     background: #131313;
 }
 
