@@ -112,7 +112,8 @@ group.radio label,
 .tour__team-standing tbody tr:nth-child(odd),
 .swiss__meta,
 .swiss__player-info,
-.tour__actor-info {
+.tour__actor-info,
+.tour__stats {
   background: #0e0e0e;
 }
 
